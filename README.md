@@ -43,12 +43,13 @@ Explore the available knowledge areas:
 | Category | Description |
 |---|---|
 | [Backup & Recovery](Backup-and-Recovery/) | Database backups, restores and backup history. |
-| [Monitoring](Monitoring/) | Database status, storage, resources and server health. |
+| [Monitoring and health server](Monitoring-and-health-server/) | Database status, storage, resources and server health. |
 | [Performance](Performance/) | Query optimization, indexes and execution plans. |
-| [Troubleshooting](Troubleshooting/) | Blocking sessions, errors and diagnostic queries. |
+| [Database Troubleshooting](Troubleshooting/) | Blocking sessions, errors and diagnostic queries. |
 | [Security](Security/) | Logins, users, permissions and access management. |
 | [Maintenance](Maintenance/) | Index maintenance, statistics and database integrity. |
 | [Documentation](Documentation/) | Guides, standards and technical references. |
+| [Space and Storage](Space-and-Storage) | Query about space in several disks |
 
 ## ⚙️ Key Features
 
